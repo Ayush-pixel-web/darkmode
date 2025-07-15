@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 60px;
+}
+p{
+  color: red;
+}
+button{
+  transition: 0.75s;
+  opacity: transparent;
+  cursor: pointer;
+}

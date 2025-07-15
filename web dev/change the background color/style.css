@@ -1,0 +1,13 @@
+body{
+  color: brown;
+  padding: 60px;
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+button{
+  transition: 0.80s;
+  opacity: 0.25;
+  color: rgb(92, 15, 207);
+  font-weight: bold;
+}
